@@ -100,6 +100,7 @@ Awesome Laravel (Rus)
 
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
++[Хорошие практики Laravel: соглашения об именовании](https://laravel.ru/posts/889)
 
 ##### 2016
 + [Ngrok на среде homestead своими руками](https://gist.github.com/asvae/64007501c6da91d2abac) ([@asvae](https://github.com/asvae))
