@@ -92,6 +92,7 @@ Awesome Laravel (Rus)
 
 ##### 2020
 + [Решение проблемы N+1 запроса без увеличения потребления памяти в Laravel](https://habr.com/ru/post/508544/)
++ [Адель Файзрахманов. Перевод на русский книги "Архитектура сложных веб-приложений. С примерами на Laravel"](https://github.com/adelf/acwa_book_ru)
 
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
