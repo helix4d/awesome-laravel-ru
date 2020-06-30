@@ -5,10 +5,15 @@ Awesome Laravel (Rus)
 <p align="center">
     <img src="https://avatars3.githubusercontent.com/u/5966874?v=3&s=200"><br><br>
     <strong>Подборка ссылок на материалы по фреймворку Laravel на русском языке.</strong><br>
-    Подборку англоязычных материалов см. тут: <a href="https://github.com/chiraggude/awesome-laravel">chiraggude/awesome-laravel</a>
 </p>
 
 ---
+### awesome репозитарии дружественной тематики
++ [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
++ [Awesome PHP](https://github.com/ziadoz/awesome-php)
++ [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
++ [Awesome](https://github.com/sindresorhus/awesome)
++ [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ### Сообщество в социальных сетях
 
