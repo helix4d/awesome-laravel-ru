@@ -97,11 +97,12 @@ Awesome Laravel (Rus)
 + [Гейты в Laravel](https://laravel.demiart.ru/laravel-gates/)
 + [Политики в Laravel](https://laravel.demiart.ru/laravel-policy/)
 + [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
++ [Тестирование API контроллеров в Laravel](https://medium.com/@butschster/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D0%BE%D0%B2-%D0%B2-laravel-c50a3f4d7195)
 
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
-+[Хорошие практики Laravel: соглашения об именовании](https://laravel.ru/posts/889)
-+[Хорошие практики Laravel: принцип единственной ответственности](https://laravel.ru/posts/864)
++ [Хорошие практики Laravel: соглашения об именовании](https://laravel.ru/posts/889)
++ [Хорошие практики Laravel: принцип единственной ответственности](https://laravel.ru/posts/864)
 
 ##### 2016
 + [Ngrok на среде homestead своими руками](https://gist.github.com/asvae/64007501c6da91d2abac) ([@asvae](https://github.com/asvae))
