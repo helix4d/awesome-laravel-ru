@@ -2,7 +2,7 @@
 [Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных](#massbdupdate)
 
 ### [Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных](#massbdupdate)
-*Bulk Update Multiple Records with Separate Data — Laravel*
+[Bulk Update Multiple Records with Separate Data — Laravel](https://medium.com/@sentiasa/bulk-update-multiple-records-with-separate-data-laravel-3da9131c279a)
 ```
 <?php
 
