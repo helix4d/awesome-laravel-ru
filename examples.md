@@ -1,6 +1,7 @@
 # Примеры кода
 
-### Bulk Update Multiple Records with Separate Data — Laravel
+### Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных
+*Bulk Update Multiple Records with Separate Data — Laravel*
 ```
 <?php
 
