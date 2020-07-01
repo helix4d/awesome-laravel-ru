@@ -1,5 +1,5 @@
 # Примеры кода
-[Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных][massupdate]
+[Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных][https://github.com/helix4d/awesome-laravel-rus/edit/master/examples.md#massupdate]
 
 ### [Как массово обновить большой объем данных в Laravel, чтобы не нагружать базу данных](#massupdate)
 *Bulk Update Multiple Records with Separate Data — Laravel*
