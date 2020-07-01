@@ -108,6 +108,7 @@ Awesome Laravel (Rus)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
++ [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
 
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
