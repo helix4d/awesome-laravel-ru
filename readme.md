@@ -138,5 +138,7 @@ Awesome Laravel (Rus)
 ### Прочее
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
 
+### Примеры кода(https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
+
 ----
 *Нашли материалы, которых еще нет в списке? Сообщество будет вам благодарно за Pull Request!*
