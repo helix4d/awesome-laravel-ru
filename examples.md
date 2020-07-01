@@ -1,7 +1,7 @@
 # Примеры кода
 
 ### Bulk Update Multiple Records with Separate Data — Laravel
-`
+```
 <?php
 
 $vat = 0.20;
@@ -25,4 +25,4 @@ foreach ($transactions->chunk(5000) as $chunk) {
        \DB::update("UPDATE transactions SET `price` = CASE `id` {$cases} END WHERE `id` in ({$ids})", $params);
    }
 }
-`
+```
