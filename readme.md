@@ -8,7 +8,7 @@ Awesome Laravel (Rus)
 </p>
 
 ---
-### awesome репозитарии дружественной тематики
+### Awesome репозитарии дружественной тематики
 + [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 + [Awesome PHP](https://github.com/ziadoz/awesome-php)
 + [Awesome Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -138,6 +138,7 @@ Awesome Laravel (Rus)
 
 ### Прочее
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
+
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
 
