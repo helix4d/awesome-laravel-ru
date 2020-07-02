@@ -138,6 +138,7 @@ Awesome Laravel (Rus)
 
 ### Прочее
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
++ [Laravel preset starter UI for laravel with tailwindcss](https://github.com/tailwindcomponents/laravel-preset)
 
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
