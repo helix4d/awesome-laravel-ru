@@ -107,6 +107,7 @@ Awesome Laravel (Rus)
 + [Laravel+Docker+Kubernetes+Helm. Гайд о создании Laravel-приложения в Docker-образе и разворачивании его в кластер Kubernetes с использованием LAMP Helm en](https://www.digitalocean.com/community/tutorials/how-to-deploy-laravel-7-and-mysql-on-kubernetes-using-helm)
 + [70 Best Laravel Interview Questions and answers](https://devdojo.com/devquora/70-best-laravel-interview-questions-and-answers)
 + [Facebook Login With PHP Laravel Socialite](https://stackcoder.in/posts/facebook-login-with-php-laravel-socialite)
++ [Bulk Update Multiple Records with Separate Data — Laravel](https://medium.com/@sentiasa/bulk-update-multiple-records-with-separate-data-laravel-3da9131c279a)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
