@@ -106,6 +106,7 @@ Awesome Laravel (Rus)
 + [Тестирование API контроллеров в Laravel](https://medium.com/@butschster/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D0%BE%D0%B2-%D0%B2-laravel-c50a3f4d7195)
 + [Laravel+Docker+Kubernetes+Helm. Гайд о создании Laravel-приложения в Docker-образе и разворачивании его в кластер Kubernetes с использованием LAMP Helm en](https://www.digitalocean.com/community/tutorials/how-to-deploy-laravel-7-and-mysql-on-kubernetes-using-helm)
 + [70 Best Laravel Interview Questions and answers](https://devdojo.com/devquora/70-best-laravel-interview-questions-and-answers)
++ [Facebook Login With PHP Laravel Socialite](https://stackcoder.in/posts/facebook-login-with-php-laravel-socialite)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
