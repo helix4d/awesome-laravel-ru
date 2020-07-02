@@ -108,6 +108,7 @@ Awesome Laravel (Rus)
 + [70 Best Laravel Interview Questions and answers](https://devdojo.com/devquora/70-best-laravel-interview-questions-and-answers)
 + [Facebook Login With PHP Laravel Socialite](https://stackcoder.in/posts/facebook-login-with-php-laravel-socialite)
 + [Bulk Update Multiple Records with Separate Data — Laravel](https://medium.com/@sentiasa/bulk-update-multiple-records-with-separate-data-laravel-3da9131c279a)
++ [Laravel Jobs and Queue 101, building a simple analytics app](https://laravel-news.com/laravel-jobs-and-queues-101)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
