@@ -109,6 +109,7 @@ Awesome Laravel (Rus)
 + [Facebook Login With PHP Laravel Socialite](https://stackcoder.in/posts/facebook-login-with-php-laravel-socialite)
 + [Bulk Update Multiple Records with Separate Data — Laravel](https://medium.com/@sentiasa/bulk-update-multiple-records-with-separate-data-laravel-3da9131c279a)
 + [Laravel Jobs and Queue 101, building a simple analytics app](https://laravel-news.com/laravel-jobs-and-queues-101)
++ [Using static factory methods with Laravel models](https://carlalexander.ca/static-factory-methods-laravel/)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
