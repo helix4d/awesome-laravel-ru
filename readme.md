@@ -3,7 +3,7 @@ Awesome Laravel (Rus)
 [![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-blue.svg)](https://discord.gg/mrkXUzV)
 
 <p align="center">
-    <img src="https://avatars3.githubusercontent.com/u/5966874?v=3&s=200"><br><br>
+    <img src="https://laravel.com/img/logomark.min.svg"><br><br>
     <strong>Подборка ссылок на материалы по фреймворку Laravel на русском языке.</strong><br>
 </p>
 
