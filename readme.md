@@ -114,6 +114,8 @@ Awesome Laravel (Rus)
 + [Создание Telegram-бота c Laravel и BotMan](https://phpnick.ru/posts/category/php/52)
 + [Laravel: When to Use Dependency Injection, Services and Static Methods](https://quickadminpanel.com/blog/laravel-when-to-use-dependency-injection-services-and-static-methods/)
 + [Using Custom Eloquent Casts in Laravel 7](https://atymic.dev/blog/laravel-custom-casts/)
++ [Как устроен Laravel signed URL](https://medium.com/@butschster/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-laravel-signed-url-3f5465add3b4)
++ [Laravel 7 Ajax Example Tutorial: How to Use Ajax in Laravel](https://www.positronx.io/laravel-ajax-example-tutorial/)
 
 
 ##### 2019
