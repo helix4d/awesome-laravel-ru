@@ -140,6 +140,7 @@ Awesome Laravel (Rus)
 
 
 ### Прочее
++ [Концепции Чистого Кода, адаптированные для PHP](https://github.com/peter-gribanov/clean-code-php)
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
 + [Laravel preset starter UI for laravel with tailwindcss](https://github.com/tailwindcomponents/laravel-preset)
 
