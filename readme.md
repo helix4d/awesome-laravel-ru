@@ -113,6 +113,7 @@ Awesome Laravel (Rus)
 + [Refactoring to Livewire polling](https://johnbraun.blog/posts/refactoring-to-livewire-polling)
 + [Создание Telegram-бота c Laravel и BotMan](https://phpnick.ru/posts/category/php/52)
 + [Laravel: When to Use Dependency Injection, Services and Static Methods](https://quickadminpanel.com/blog/laravel-when-to-use-dependency-injection-services-and-static-methods/)
++ [Using Custom Eloquent Casts in Laravel 7](https://atymic.dev/blog/laravel-custom-casts/)
 
 
 ##### 2019
