@@ -111,6 +111,7 @@ Awesome Laravel (Rus)
 + [Laravel Jobs and Queue 101, building a simple analytics app](https://laravel-news.com/laravel-jobs-and-queues-101)
 + [Using static factory methods with Laravel models](https://carlalexander.ca/static-factory-methods-laravel/)
 + [Refactoring to Livewire polling](https://johnbraun.blog/posts/refactoring-to-livewire-polling)
++ [Создание Telegram-бота c Laravel и BotMan](https://phpnick.ru/posts/category/php/52)
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
