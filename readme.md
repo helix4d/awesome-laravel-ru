@@ -4,7 +4,7 @@ Awesome Laravel (Rus)
 
 <p align="center">
     <img src="https://laravel.com/img/logomark.min.svg"><br><br>
-    <strong>Подборка ссылок на материалы по фреймворку Laravel на русском языке.</strong><br>
+    <strong>Подборка ссылок на материалы по фреймворку Laravel.</strong><br>
 </p>
 
 ---
