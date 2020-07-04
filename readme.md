@@ -19,7 +19,7 @@ Awesome Laravel [ru]
 
 + [Чат (Discord)](https://discord.gg/mrkXUzV)
 + [Чат (Gitter)](https://gitter.im/LaravelRUS/chat)
-+ [Чат (Telegram) Laravel для начинающих](
++ [Чат (Telegram) Laravel для начинающих](https://t.me/laravel_web)
 + [Чат (Telegram) Laravel Framework Russian Community |ru|](https://t.me/laravelrus)
 + [Чат (Telegram) Laravel |en|](https://t.me/Laravel)
 + [Чат (Telegram) Laravel Pro |ru|](https://t.me/laravel_pro)
