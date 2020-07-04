@@ -1,4 +1,4 @@
-Awesome Laravel (Rus)
+Awesome Laravel [ru]
 ====
 [![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-blue.svg)](https://discord.gg/mrkXUzV)
 
