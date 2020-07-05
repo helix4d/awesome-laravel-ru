@@ -153,7 +153,7 @@ Awesome Laravel [ru]
 + [Концепции Чистого Кода, адаптированные для PHP](https://github.com/peter-gribanov/clean-code-php)
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
 + [Laravel preset starter UI for laravel with tailwindcss](https://github.com/tailwindcomponents/laravel-preset)
-
++ [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
 
