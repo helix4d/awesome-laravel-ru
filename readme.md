@@ -1,6 +1,6 @@
 Awesome Laravel [ru]
 ====
-![https://img.shields.io/badge/laravel-ru-green]
+![https://img.shields.io/badge/laravel-ru-green.svg]
 
 <p align="center">
     <img src="https://laravel.com/img/logomark.min.svg"><br><br>
