@@ -1,6 +1,6 @@
 Awesome Laravel [ru]
 ====
-[![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-blue.svg)](https://discord.gg/mrkXUzV)
+![https://img.shields.io/badge/laravel-ru-green]
 
 <p align="center">
     <img src="https://laravel.com/img/logomark.min.svg"><br><br>
