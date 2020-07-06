@@ -135,6 +135,10 @@ Awesome Laravel [ru]
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
 + [Пожалуйста, прекращайте говорить про шаблон Репозиторий с Eloquent](https://m.habr.com/ru/post/444688/)
 
+
+##### 2018
++[Laravel features you may not know about](https://webdevetc.com/blog/laravel-features-you-may-not-know-about)
+
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
 + [Хорошие практики Laravel: соглашения об именовании](https://laravel.ru/posts/889)
