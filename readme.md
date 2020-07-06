@@ -127,7 +127,9 @@ Awesome Laravel [ru]
 + [Sending a welcome Email using Laravel](https://medium.com/@collynejumah2010/sending-a-welcome-email-using-laravel-61f9c55bb3ed)
 + [Выводим работу с политиками в Laravel на новый уровень](https://medium.com/@butschster/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D1%81-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2-laravel-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-7c7e2d7e69da)
 + [Laravel 7 Datatables Example | Use Yajra Datatables in Laravel](https://www.positronx.io/laravel-datatables-example/)
-
++ [Track HTTP Client requests in Laravel with the Laravel DebugBar](https://www.csrhymes.com/2020/07/01/track-http-client-in-laravel-debugbar.html)
++ [Полиморфные отношения](https://laravel.demiart.ru/polymorphic-relationships/)
++ [Identify models using their name with Laravel](https://dev.to/bdelespierre/identify-models-using-their-name-with-laravel-15lo)
 
 
 ##### 2019
