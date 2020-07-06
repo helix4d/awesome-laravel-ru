@@ -118,6 +118,16 @@ Awesome Laravel [ru]
 + [Как устроен Laravel signed URL](https://medium.com/@butschster/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-laravel-signed-url-3f5465add3b4)
 + [Laravel 7 Ajax Example Tutorial: How to Use Ajax in Laravel](https://www.positronx.io/laravel-ajax-example-tutorial/)
 + [Optimizing circular relationships in Laravel](https://reinink.ca/articles/optimizing-circular-relationships-in-laravel)
++ [Understanding Polymorphic Relationships](https://devdojo.com/tnylea/understanding-polymorphic-relationships)
++[Video Streaming with Nginx and Larave](https://medium.com/@GaonLabs/video-streaming-with-nginx-and-laravel-838b66aacb47)
++[Продвинутый model attribute casting в Laravel](https://medium.com/@butschster/%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9-model-attribute-casting-%D0%B2-laravel-86d48e80b2b5)
++[Web scraping 101: let’s build a curated list using Laravel 7 and Tailwind CSS](https://medium.com/@emymbenoun/web-scraping-101-lets-build-a-curated-list-using-laravel-7-and-tailwind-css-beca3ca98651)
++[Integrating Flutter with Laravel and Pusher](https://carnou.com/20200704-integrating-flutter-with-laravel-and-pusher/)
++[How to Install & Integrate CKEditor (WYSIWYG) in Laravel 7?](https://www.positronx.io/how-to-install-integrate-ckeditor-in-laravel/)
++[https://www.positronx.io/how-to-install-integrate-ckeditor-in-laravel/]()
++[Sending a welcome Email using Laravel](https://medium.com/@collynejumah2010/sending-a-welcome-email-using-laravel-61f9c55bb3ed)
++[Выводим работу с политиками в Laravel на новый уровень](https://medium.com/@butschster/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B8%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D1%81-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2-laravel-%D0%BD%D0%B0-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-7c7e2d7e69da)
++ [Laravel 7 Datatables Example | Use Yajra Datatables in Laravel](https://www.positronx.io/laravel-datatables-example/)
 
 
 ##### 2019
