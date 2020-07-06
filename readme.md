@@ -129,6 +129,7 @@ Awesome Laravel [ru]
 + [Laravel 7 Datatables Example | Use Yajra Datatables in Laravel](https://www.positronx.io/laravel-datatables-example/)
 
 
+
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
@@ -162,6 +163,7 @@ Awesome Laravel [ru]
 + [Концепции Чистого Кода, адаптированные для PHP](https://github.com/peter-gribanov/clean-code-php)
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
 + [Laravel preset starter UI for laravel with tailwindcss](https://github.com/tailwindcomponents/laravel-preset)
++ [Дебажим PHP-контейнер с помощью Xdebug и PhpStorm](https://m.habr.com/ru/company/otus/blog/507982/?_ga=2.26295485.1091241495.1593849878-1417280020.1573908716)
 + [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
