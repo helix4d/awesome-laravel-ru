@@ -130,6 +130,7 @@ Awesome Laravel [ru]
 + [Track HTTP Client requests in Laravel with the Laravel DebugBar](https://www.csrhymes.com/2020/07/01/track-http-client-in-laravel-debugbar.html)
 + [Полиморфные отношения](https://laravel.demiart.ru/polymorphic-relationships/)
 + [Identify models using their name with Laravel](https://dev.to/bdelespierre/identify-models-using-their-name-with-laravel-15lo)
++ [Write better Laravel tests](https://medium.com/@devmsh/write-better-laravel-tests-b54cf3711e26)
 
 
 ##### 2019
