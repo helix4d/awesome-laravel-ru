@@ -131,6 +131,7 @@ Awesome Laravel [ru]
 + [Полиморфные отношения](https://laravel.demiart.ru/polymorphic-relationships/)
 + [Identify models using their name with Laravel](https://dev.to/bdelespierre/identify-models-using-their-name-with-laravel-15lo)
 + [Write better Laravel tests](https://medium.com/@devmsh/write-better-laravel-tests-b54cf3711e26)
++ [Laravel Routing – 8 Advanced Tips: Languages, APIs, Groups, Validation](https://quickadminpanel.com/blog/laravel-routing-8-advanced-tips-languages-apis-groups-validation/)
 
 
 ##### 2019
