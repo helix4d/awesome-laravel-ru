@@ -176,6 +176,9 @@ Awesome Laravel [ru]
 + [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 + [Правила написания кода PHP](https://github.com/roistat/php-code-conventions)
 + [A PHP development environment your team will love](https://guille.cloud/build-a-docker-development-environment-for-php-projects/index.html)
++ [Awesome Shell](https://github.com/alebcay/awesome-shell)
++ [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+
 
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
