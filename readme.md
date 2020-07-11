@@ -142,6 +142,7 @@ Awesome Laravel [ru]
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
 + [Пожалуйста, прекращайте говорить про шаблон Репозиторий с Eloquent](https://m.habr.com/ru/post/444688/)
++ [Продвинутое управление meta тегами в Laravel](https://medium.com/@butschster/laravel-meta-tags-management-b35b6f81d2a2)
 
 
 ##### 2018
