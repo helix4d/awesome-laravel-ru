@@ -143,6 +143,8 @@ Awesome Laravel [ru]
 ##### 2018
 + [Laravel features you may not know about](https://webdevetc.com/blog/laravel-features-you-may-not-know-about)
 + [Laravel: How to automate deployment using git and webhooks](https://medium.com/@gmaumoh/laravel-how-to-automate-deployment-using-git-and-webhooks-9ae6cd8dffae)
++ [Introducing laravel-websockets, an easy to use WebSocket server implemented in PHP](https://freek.dev/1228-introducing-laravel-websockets-an-easy-to-use-websocket-server-implemented-in-php)
+
 
 ##### 2017
 + [Laravel 5.3 Pivot table](https://medium.com/@butschster/laravel-pivot-table-4808827cf567#.65njg3336)([@butschster](https://github.com/butschster))
