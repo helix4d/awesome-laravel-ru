@@ -133,6 +133,7 @@ Awesome Laravel [ru]
 + [Write better Laravel tests](https://medium.com/@devmsh/write-better-laravel-tests-b54cf3711e26)
 + [Laravel Routing – 8 Advanced Tips: Languages, APIs, Groups, Validation](https://quickadminpanel.com/blog/laravel-routing-8-advanced-tips-languages-apis-groups-validation/)
 + [Laravel Playground - песочница для Laravel-приложений прямо в браузере. Поддерживает Livewire и Debugbar](https://pociot.dev/29-introducing-laravel-playground)
++ [Monitor scheduled tasks in a Laravel app](https://github.com/spatie/laravel-schedule-monitor)
 
 
 ##### 2019
