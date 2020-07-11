@@ -149,6 +149,7 @@ Awesome Laravel [ru]
 + [Laravel features you may not know about](https://webdevetc.com/blog/laravel-features-you-may-not-know-about)
 + [Laravel: How to automate deployment using git and webhooks](https://medium.com/@gmaumoh/laravel-how-to-automate-deployment-using-git-and-webhooks-9ae6cd8dffae)
 + [Introducing laravel-websockets, an easy to use WebSocket server implemented in PHP](https://freek.dev/1228-introducing-laravel-websockets-an-easy-to-use-websocket-server-implemented-in-php)
++ [Building Dynamic Breadcrumbs In Laravel](https://medium.com/@jordanIrabor/building-dynamic-breadcrumbs-in-laravel-f6bf1eb23a7d)
 
 
 ##### 2017
