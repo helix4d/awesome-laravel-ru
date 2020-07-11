@@ -134,6 +134,7 @@ Awesome Laravel [ru]
 + [Laravel Routing – 8 Advanced Tips: Languages, APIs, Groups, Validation](https://quickadminpanel.com/blog/laravel-routing-8-advanced-tips-languages-apis-groups-validation/)
 + [Laravel Playground - песочница для Laravel-приложений прямо в браузере. Поддерживает Livewire и Debugbar](https://pociot.dev/29-introducing-laravel-playground)
 + [Monitor scheduled tasks in a Laravel app](https://github.com/spatie/laravel-schedule-monitor)
++ [Как устроен Laravel signed URL](https://medium.com/@butschster/%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD-laravel-signed-url-3f5465add3b4)
 
 
 ##### 2019
