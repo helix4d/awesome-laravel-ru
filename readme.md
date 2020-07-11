@@ -15,7 +15,7 @@ Awesome Laravel [ru]
 + [Awesome](https://github.com/sindresorhus/awesome)
 + [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
-### Сообщество в социальных сетях
+### Сообщество в социальных сетях и мессенджерах
 
 + [Чат (Discord)](https://discord.gg/mrkXUzV)
 + [Чат (Gitter)](https://gitter.im/LaravelRUS/chat)
