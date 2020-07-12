@@ -143,6 +143,9 @@ Awesome Laravel [ru]
 + [Laravel 7 package development from scratch](https://medium.com/@ivankolodiy/laravel-7-package-development-from-scratch-7887678ae38)
 + [Using PEST in Laravel](https://nunomaduro.com/using-pest-in-laravel/)
 + [Dockerizing a Laravel application in 15 minutes](https://jeroeng.dev/blog/dockerizing-laravel-in-15-minutes/)
++ [How to integrate PayPal into Laravel?](https://medium.com/in-laravel/how-to-integrate-paypal-into-laravel-977bf508c13)
++ [Build a WhatsApp Currency Conversion Bot with Twilio and Laravel](https://www.twilio.com/blog/build-whatsapp-currency-conversion-bot-twilio-laravel)
+
 
 
 ##### 2019
