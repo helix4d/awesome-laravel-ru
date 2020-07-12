@@ -205,5 +205,7 @@ Awesome Laravel [ru]
 
 ### [Примеры кода](https://github.com/helix4d/awesome-laravel-rus/blob/master/examples.md)
 
+[Шаблон .gitignore для Laravel проектов](https://github.com/helix4d/awesome-laravel-ru/blob/master/Laravel.gitignore) 
+
 ----
 *Нашли материалы, которых еще нет в списке? Сообщество будет вам благодарно за Pull Request!*
