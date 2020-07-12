@@ -142,6 +142,8 @@ Awesome Laravel [ru]
 + [Dynamic relationships in Laravel using subqueries](https://reinink.ca/articles/dynamic-relationships-in-laravel-using-subqueries)
 + [Laravel 7 package development from scratch](https://medium.com/@ivankolodiy/laravel-7-package-development-from-scratch-7887678ae38)
 + [Using PEST in Laravel](https://nunomaduro.com/using-pest-in-laravel/)
++ [Dockerizing a Laravel application in 15 minutes](https://jeroeng.dev/blog/dockerizing-laravel-in-15-minutes/)
+
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
