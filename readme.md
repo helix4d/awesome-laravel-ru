@@ -139,6 +139,7 @@ Awesome Laravel [ru]
 + [Загружаем файлы и скрываем их реальные адреса](https://www.codechief.org/article/upload-file-and-download-hiding-real-url-in-laravel)
 + [Hidden Gems in Eloquent ORM — Laravel 7.x](https://medium.com/simplex-internet-blog/hidden-gems-in-eloquent-orm-laravel-7-x-ed09e3a78c97)
 + [Rethinking Laravel's middleware argument API](https://timacdonald.me/rethinking-laravels-middleware-argument-api/)
++ [Dynamic relationships in Laravel using subqueries](https://reinink.ca/articles/dynamic-relationships-in-laravel-using-subqueries)
 
 
 ##### 2019
