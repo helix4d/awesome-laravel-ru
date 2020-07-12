@@ -138,6 +138,7 @@ Awesome Laravel [ru]
 + [Про интеграцию сторонних библиотек в Laravel](https://medium.com/@butschster/%D0%BF%D1%80%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8E-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D1%85-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA-%D0%B2-laravel-4cb262e88195)
 + [Загружаем файлы и скрываем их реальные адреса](https://www.codechief.org/article/upload-file-and-download-hiding-real-url-in-laravel)
 + [Hidden Gems in Eloquent ORM — Laravel 7.x](https://medium.com/simplex-internet-blog/hidden-gems-in-eloquent-orm-laravel-7-x-ed09e3a78c97)
++ [Rethinking Laravel's middleware argument API](https://timacdonald.me/rethinking-laravels-middleware-argument-api/)
 
 
 ##### 2019
