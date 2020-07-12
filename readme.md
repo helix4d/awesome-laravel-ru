@@ -145,7 +145,7 @@ Awesome Laravel [ru]
 + [Dockerizing a Laravel application in 15 minutes](https://jeroeng.dev/blog/dockerizing-laravel-in-15-minutes/)
 + [How to integrate PayPal into Laravel?](https://medium.com/in-laravel/how-to-integrate-paypal-into-laravel-977bf508c13)
 + [Build a WhatsApp Currency Conversion Bot with Twilio and Laravel](https://www.twilio.com/blog/build-whatsapp-currency-conversion-bot-twilio-laravel)
-
++ [Create a Real-Time Twitter Stream in PHP using Pusher and Laravel](https://www.twilio.com/blog/create-real-time-twitter-stream-app-php-pusher-laravel)
 
 
 ##### 2019
