@@ -140,6 +140,7 @@ Awesome Laravel [ru]
 + [Hidden Gems in Eloquent ORM — Laravel 7.x](https://medium.com/simplex-internet-blog/hidden-gems-in-eloquent-orm-laravel-7-x-ed09e3a78c97)
 + [Rethinking Laravel's middleware argument API](https://timacdonald.me/rethinking-laravels-middleware-argument-api/)
 + [Dynamic relationships in Laravel using subqueries](https://reinink.ca/articles/dynamic-relationships-in-laravel-using-subqueries)
++ [Laravel 7 package development from scratch](https://medium.com/@ivankolodiy/laravel-7-package-development-from-scratch-7887678ae38)
 
 
 ##### 2019
