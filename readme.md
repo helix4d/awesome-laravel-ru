@@ -179,6 +179,9 @@ Awesome Laravel [ru]
 + [Волшебный Eloquent. Часть вторая. "Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock))
 + [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
 
+### Пакеты для Laravel
++ [Laravel user activity log](https://github.com/spatie/laravel-activitylog)
+
 
 ### Прочее
 + [Концепции Чистого Кода, адаптированные для PHP](https://github.com/peter-gribanov/clean-code-php)
