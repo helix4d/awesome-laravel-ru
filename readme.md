@@ -148,6 +148,7 @@ Awesome Laravel [ru]
 + [Create a Real-Time Twitter Stream in PHP using Pusher and Laravel](https://www.twilio.com/blog/create-real-time-twitter-stream-app-php-pusher-laravel)
 + [Create a Currency Data Type using Custom Casts in Laravel 7](https://www.twilio.com/blog/create-currency-data-type-custom-casts-laravel-7)
 + [Laravel: Getting the previous and next records](https://itnext.io/laravel-getting-the-previous-and-next-records-60a8cf109daa)
++ [Ordering database queries by relationship columns in Laravel](https://reinink.ca/articles/ordering-database-queries-by-relationship-columns-in-laravel)
 
 
 ##### 2019
