@@ -149,7 +149,8 @@ Awesome Laravel [ru]
 + [Create a Currency Data Type using Custom Casts in Laravel 7](https://www.twilio.com/blog/create-currency-data-type-custom-casts-laravel-7)
 + [Laravel: Getting the previous and next records](https://itnext.io/laravel-getting-the-previous-and-next-records-60a8cf109daa)
 + [Ordering database queries by relationship columns in Laravel](https://reinink.ca/articles/ordering-database-queries-by-relationship-columns-in-laravel)
-+ [Настраиваем Docker для Laravel за 15 минут](
++ [Настраиваем Docker для Laravel за 15 минут](https://laravel.demiart.ru/dockerizing-laravel-in-15-minutes/)
++ [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
 
 
 ##### 2019
