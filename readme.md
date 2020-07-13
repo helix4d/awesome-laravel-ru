@@ -147,6 +147,8 @@ Awesome Laravel [ru]
 + [Build a WhatsApp Currency Conversion Bot with Twilio and Laravel](https://www.twilio.com/blog/build-whatsapp-currency-conversion-bot-twilio-laravel)
 + [Create a Real-Time Twitter Stream in PHP using Pusher and Laravel](https://www.twilio.com/blog/create-real-time-twitter-stream-app-php-pusher-laravel)
 + [Create a Currency Data Type using Custom Casts in Laravel 7](https://www.twilio.com/blog/create-currency-data-type-custom-casts-laravel-7)
++ [Laravel: Getting the previous and next records](https://itnext.io/laravel-getting-the-previous-and-next-records-60a8cf109daa)
+
 
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
