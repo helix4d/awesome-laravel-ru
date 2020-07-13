@@ -169,6 +169,7 @@ Awesome Laravel [ru]
 + [Introducing laravel-websockets, an easy to use WebSocket server implemented in PHP](https://freek.dev/1228-introducing-laravel-websockets-an-easy-to-use-websocket-server-implemented-in-php)
 + [Building Dynamic Breadcrumbs In Laravel](https://medium.com/@jordanIrabor/building-dynamic-breadcrumbs-in-laravel-f6bf1eb23a7d)
 + [Динамические отношения в Laravel с использованием подзапросов](https://laravelnews.ru/dinamicheskie-otnosheniya-v-laravel-s-ispolzovaniem-podzaprosov]
++ [5 Laravel Helpers Которые Сделают Вашу Жизнь Проще](https://laravelnews.ru/5-laravel-helpers-kotorye-sdelayut-vashu-zhizn-proshche)
 
 
 ##### 2017
