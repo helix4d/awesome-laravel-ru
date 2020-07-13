@@ -207,6 +207,7 @@ Awesome Laravel [ru]
 + [A PHP development environment your team will love](https://guille.cloud/build-a-docker-development-environment-for-php-projects/index.html)
 + [Awesome Shell](https://github.com/alebcay/awesome-shell)
 + [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
++ [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 
 
