@@ -211,6 +211,7 @@ Awesome Laravel [ru]
 + [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 + [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 + [list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers](https://free-for.dev/)
++ [Wildcard SSL сертификаты от Let's Encrypt](https://laravelnews.ru/wildcard-ssl-sertifikaty-ot-lets-encrypt)
 
 
 
