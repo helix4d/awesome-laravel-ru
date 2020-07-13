@@ -151,6 +151,7 @@ Awesome Laravel [ru]
 + [Ordering database queries by relationship columns in Laravel](https://reinink.ca/articles/ordering-database-queries-by-relationship-columns-in-laravel)
 + [Настраиваем Docker для Laravel за 15 минут](https://laravel.demiart.ru/dockerizing-laravel-in-15-minutes/)
 + [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
++ [Blade компоненты в Laravel 7](https://laravel.demiart.ru/blade-komponenty-v-laravel-7/)
 
 
 ##### 2019
