@@ -153,6 +153,7 @@ Awesome Laravel [ru]
 + [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
 + [Blade компоненты в Laravel 7](https://laravel.demiart.ru/blade-komponenty-v-laravel-7/)
 + [Adding Google reCAPTCHA v3 to Your Laravel App](https://dzone.com/articles/adding-google-recaptcha-v3-to-your-laravel-app)
++ [Simple tag trait for Laravel models](https://dev.to/bdelespierre/simple-tag-trait-for-laravel-models-ije)
 
 
 ##### 2019
