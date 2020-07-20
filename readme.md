@@ -152,6 +152,7 @@ Awesome Laravel [ru]
 + [Настраиваем Docker для Laravel за 15 минут](https://laravel.demiart.ru/dockerizing-laravel-in-15-minutes/)
 + [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
 + [Blade компоненты в Laravel 7](https://laravel.demiart.ru/blade-komponenty-v-laravel-7/)
++ [Adding Google reCAPTCHA v3 to Your Laravel App](https://dzone.com/articles/adding-google-recaptcha-v3-to-your-laravel-app)
 
 
 ##### 2019
