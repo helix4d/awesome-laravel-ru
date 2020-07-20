@@ -154,6 +154,7 @@ Awesome Laravel [ru]
 + [Blade компоненты в Laravel 7](https://laravel.demiart.ru/blade-komponenty-v-laravel-7/)
 + [Adding Google reCAPTCHA v3 to Your Laravel App](https://dzone.com/articles/adding-google-recaptcha-v3-to-your-laravel-app)
 + [Simple tag trait for Laravel models](https://dev.to/bdelespierre/simple-tag-trait-for-laravel-models-ije)
++ [Dynamically Add or Remove Input Fields using JQuery in Laravel 7.x](https://www.codechief.org/article/dynamically-add-or-remove-input-fields-using-jquery-in-laravel-7x#gsc.tab=0)
 
 
 ##### 2019
