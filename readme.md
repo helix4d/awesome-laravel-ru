@@ -155,8 +155,10 @@ Awesome Laravel [ru]
 + [Adding Google reCAPTCHA v3 to Your Laravel App](https://dzone.com/articles/adding-google-recaptcha-v3-to-your-laravel-app)
 + [Simple tag trait for Laravel models](https://dev.to/bdelespierre/simple-tag-trait-for-laravel-models-ije)
 + [Dynamically Add or Remove Input Fields using JQuery in Laravel 7.x](https://www.codechief.org/article/dynamically-add-or-remove-input-fields-using-jquery-in-laravel-7x#gsc.tab=0)
++ [Полезные репозитории с Eloquent?](https://m.habr.com/ru/post/445452/)
 
 
+I
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
