@@ -160,6 +160,7 @@ Awesome Laravel [ru]
 + [Test automation for Laravel 7 and MySQL with GitHub Actions](https://medium.com/swlh/test-automation-for-laravel-7-and-mysql-with-github-actions-467493c2f7ed)
 + [What's behind Laravel Encryption/Decryption](https://robertogallea.com/posts/development/whats-behind-laravel-encryptiondecryption)
 + [The Mighty Illuminate Request Object](https://laravel-news.com/the-mighty-illuminate-request)
++ [Create comment system with jquery ajax and laravel 7](https://projectsplaza.com/create-comment-system-with-jquery-ajax-and-laravel-7/)
 
 
 ##### 2019
