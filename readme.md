@@ -218,6 +218,7 @@ I
 + [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 + [list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers](https://free-for.dev/)
 + [Wildcard SSL сертификаты от Let's Encrypt](https://laravelnews.ru/wildcard-ssl-sertifikaty-ot-lets-encrypt)
++ [ТОП-10 книг по PHP: от новичка до профессионала](https://proglib.io/p/top-10-knig-po-php-ot-novichka-do-professionala-2020-05-24)
 
 
 
