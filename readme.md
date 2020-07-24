@@ -157,9 +157,10 @@ Awesome Laravel [ru]
 + [Dynamically Add or Remove Input Fields using JQuery in Laravel 7.x](https://www.codechief.org/article/dynamically-add-or-remove-input-fields-using-jquery-in-laravel-7x#gsc.tab=0)
 + [Полезные репозитории с Eloquent?](https://m.habr.com/ru/post/445452/)
 + [Вы уверены, что пишете объектно-ориентированный код?](https://m.habr.com/ru/post/511744/)
-+[Test automation for Laravel 7 and MySQL with GitHub Actions](https://medium.com/swlh/test-automation-for-laravel-7-and-mysql-with-github-actions-467493c2f7ed)
++ [Test automation for Laravel 7 and MySQL with GitHub Actions](https://medium.com/swlh/test-automation-for-laravel-7-and-mysql-with-github-actions-467493c2f7ed)
++ [What's behind Laravel Encryption/Decryption](https://robertogallea.com/posts/development/whats-behind-laravel-encryptiondecryption)
 
-I
+
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
