@@ -159,6 +159,7 @@ Awesome Laravel [ru]
 + [Вы уверены, что пишете объектно-ориентированный код?](https://m.habr.com/ru/post/511744/)
 + [Test automation for Laravel 7 and MySQL with GitHub Actions](https://medium.com/swlh/test-automation-for-laravel-7-and-mysql-with-github-actions-467493c2f7ed)
 + [What's behind Laravel Encryption/Decryption](https://robertogallea.com/posts/development/whats-behind-laravel-encryptiondecryption)
++ [The Mighty Illuminate Request Object](https://laravel-news.com/the-mighty-illuminate-request)
 
 
 ##### 2019
