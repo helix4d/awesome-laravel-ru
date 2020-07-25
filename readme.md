@@ -161,6 +161,7 @@ Awesome Laravel [ru]
 + [What's behind Laravel Encryption/Decryption](https://robertogallea.com/posts/development/whats-behind-laravel-encryptiondecryption)
 + [The Mighty Illuminate Request Object](https://laravel-news.com/the-mighty-illuminate-request)
 + [Create comment system with jquery ajax and laravel 7](https://projectsplaza.com/create-comment-system-with-jquery-ajax-and-laravel-7/)
++ [SummerNote WYSIWYG Text Editor Save Images To Public Path In PHP Laravel](https://stackcoder.in/posts/summernote-wysiwyg-text-editor-save-images-to-public-path-in-php-laravel)
 
 
 ##### 2019
