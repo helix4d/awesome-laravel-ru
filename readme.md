@@ -164,6 +164,7 @@ Awesome Laravel [ru]
 + [SummerNote WYSIWYG Text Editor Save Images To Public Path In PHP Laravel](https://stackcoder.in/posts/summernote-wysiwyg-text-editor-save-images-to-public-path-in-php-laravel)
 
 
+
 ##### 2019
 + [Кеширование в Laravel: основы плюс tips&tricks](https://m.habr.com/ru/post/463495/)
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
@@ -171,6 +172,7 @@ Awesome Laravel [ru]
 + [Продвинутое управление meta тегами в Laravel](https://medium.com/@butschster/laravel-meta-tags-management-b35b6f81d2a2)
 + [How to install TailwindCSS in Laravel](https://jeroeng.dev/blog/how-to-install-tailwindcss-in-laravel/)
 + [Сравнение Inertia.js и Livewire](https://laravel.demiart.ru/inertia-vs-livewire/)
++ [Eloquent и Blade: советы по повышению производительности](https://laravel.demiart.ru/eloquent-i-blade-sovety-po-povysheniyu-proizvoditelnosti/)
 
 
 ##### 2018
